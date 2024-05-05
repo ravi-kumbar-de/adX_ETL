@@ -1,0 +1,6 @@
+Event Timestamp,User ID,Ad Campaign ID,Conversion Type
+2024-05-05T12:35:21Z,user456,CampaignXYZ,signup
+2024-05-05T12:40:10Z,user789,CampaignABC,purchase
+2024-05-05T12:42:55Z,user123,CampaignXYZ,purchase
+2024-05-05T12:47:30Z,user456,CampaignABC,signup
+2024-05-05T12:50:20Z,user789,CampaignXYZ,signup

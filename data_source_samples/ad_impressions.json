@@ -1,0 +1,32 @@
+[
+  {
+    "ad_creative_id": "ABC123",
+    "user_id": "user123",
+    "timestamp": "2024-05-05T12:30:45Z",
+    "website": "example.com"
+  },
+  {
+    "ad_creative_id": "XYZ789",
+    "user_id": "user456",
+    "timestamp": "2024-05-05T12:35:00Z",
+    "website": "example.net"
+  },
+  {
+    "ad_creative_id": "DEF456",
+    "user_id": "user789",
+    "timestamp": "2024-05-05T12:40:15Z",
+    "website": "example.org"
+  },
+  {
+    "ad_creative_id": "GHI789",
+    "user_id": "user789",
+    "timestamp": "2024-05-05T12:45:30Z",
+    "website": "example.com"
+  },
+  {
+    "ad_creative_id": "JKL012",
+    "user_id": "user123",
+    "timestamp": "2024-05-05T12:50:00Z",
+    "website": "example.net"
+  }
+]

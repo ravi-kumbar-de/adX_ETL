@@ -1,0 +1,42 @@
+{
+  "type": "record",
+  "name": "BidRequest",
+  "namespace": "com.advertisex",
+  "fields": [
+    {
+      "name": "user_info",
+      "type": {
+        "type": "record",
+        "name": "UserInfo",
+        "fields": [
+          {"name": "user_id", "type": "string"},
+          {"name": "location", "type": "string"},
+          {"name": "age", "type": "int"}
+        ]
+      }
+    },
+    {
+      "name": "auction_details",
+      "type": {
+        "type": "record",
+        "name": "AuctionDetails",
+        "fields": [
+          {"name": "auction_id", "type": "string"},
+          {"name": "bid_amount", "type": "float"},
+          {"name": "timestamp", "type": "string"}
+        ]
+      }
+    },
+    {
+      "name": "ad_targeting_criteria",
+      "type": {
+        "type": "record",
+        "name": "AdTargetingCriteria",
+        "fields": [
+          {"name": "keywords", "type": {"type": "array", "items": "string"}},
+          {"name": "device_type", "type": "string"}
+        ]
+      }
+    }
+  ]
+}

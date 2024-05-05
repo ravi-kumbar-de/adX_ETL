@@ -1,0 +1,82 @@
+[
+  {
+    "user_info": {
+      "user_id": "user789",
+      "location": "New York",
+      "age": 28
+    },
+    "auction_details": {
+      "auction_id": "auction123",
+      "bid_amount": 0.50,
+      "timestamp": "2024-05-05T12:00:00Z"
+    },
+    "ad_targeting_criteria": {
+      "keywords": ["sports", "technology"],
+      "device_type": "mobile"
+    }
+  },
+  {
+    "user_info": {
+      "user_id": "user456",
+      "location": "Los Angeles",
+      "age": 35
+    },
+    "auction_details": {
+      "auction_id": "auction456",
+      "bid_amount": 0.75,
+      "timestamp": "2024-05-05T12:10:00Z"
+    },
+    "ad_targeting_criteria": {
+      "keywords": ["fashion", "travel"],
+      "device_type": "desktop"
+    }
+  },
+  {
+    "user_info": {
+      "user_id": "user123",
+      "location": "Chicago",
+      "age": 40
+    },
+    "auction_details": {
+      "auction_id": "auction789",
+      "bid_amount": 0.60,
+      "timestamp": "2024-05-05T12:20:00Z"
+    },
+    "ad_targeting_criteria": {
+      "keywords": ["food", "health"],
+      "device_type": "mobile"
+    }
+  },
+  {
+    "user_info": {
+      "user_id": "user456",
+      "location": "San Francisco",
+      "age": 25
+    },
+    "auction_details": {
+      "auction_id": "auction101",
+      "bid_amount": 0.80,
+      "timestamp": "2024-05-05T12:30:00Z"
+    },
+    "ad_targeting_criteria": {
+      "keywords": ["fitness", "lifestyle"],
+      "device_type": "tablet"
+    }
+  },
+  {
+    "user_info": {
+      "user_id": "user789",
+      "location": "Seattle",
+      "age": 30
+    },
+    "auction_details": {
+      "auction_id": "auction112",
+      "bid_amount": 0.65,
+      "timestamp": "2024-05-05T12:40:00Z"
+    },
+    "ad_targeting_criteria": {
+      "keywords": ["music", "entertainment"],
+      "device_type": "desktop"
+    }
+  }
+]
